@@ -1,5 +1,20 @@
 ### 재질 (Material) 1
 
+#### 실행화면
+
+![image](https://github.com/qkrgudals1030/teamAI/assets/50895124/16d3158f-8c45-462a-8182-acf516e08a7f)
+
+![image](https://github.com/qkrgudals1030/teamAI/assets/50895124/478fac32-d602-4de9-a4cf-b179f7eb5f06)
+
+![image](https://github.com/qkrgudals1030/teamAI/assets/50895124/c9d052d0-12e9-45a4-931a-e66c31609f01)
+
+![image](https://github.com/qkrgudals1030/teamAI/assets/50895124/613b77e9-85f9-40ea-9f88-50744a591711)
+
+![image](https://github.com/qkrgudals1030/teamAI/assets/50895124/626ad1ee-446f-4a3e-bb42-80311722d177)
+
+![image](https://github.com/qkrgudals1030/teamAI/assets/50895124/79a1d8fe-088c-4954-80bc-e102670f7b64)
+
+
 #### meshBasicMaterial
 ```
 import { OrbitControls } from "@react-three/drei";
