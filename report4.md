@@ -1,5 +1,12 @@
 ### 지오메트리 (Geometry) 2
 
+#### 실행화면
+
+![image](https://github.com/qkrgudals1030/teamAI/assets/50895124/5dcc4412-9de5-44a0-9001-225785ede17c)
+
+![image](https://github.com/qkrgudals1030/teamAI/assets/50895124/d17ab137-0414-48e3-a416-8caeed99d972)
+
+
 #### SphereGeometry의 args 속성
 ```
 import { OrbitControls, Box } from "@react-three/drei";
