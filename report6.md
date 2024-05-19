@@ -2,6 +2,9 @@
 
 
 #### 실습: R3F(Three.js)에서 제공하는 광원
+![녹음 2024-05-19 163544](https://github.com/qkrgudals1030/teamAI/assets/50951220/43724420-2c2b-47ba-b5cd-9003db23eba6)
+
+
 ```
 import { OrbitControls } from "@react-three/drei";
 import { useFrame } from "@react-three/fiber";
