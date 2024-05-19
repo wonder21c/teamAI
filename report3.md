@@ -1,4 +1,5 @@
 ### 지오메트리 (Geometry) 1
+![geometry-2024-4-30](https://github.com/wonder21c/computer-graphic/assets/50861700/c4bb02ab-743b-4db6-b58e-af0569f0ff87)
 
 
 #### 같은 객체를 표현하는 세 가지 방법
