@@ -1,4 +1,5 @@
 ### 카메라 (Camera)
+![chrome-capture-2024-5-19](https://github.com/wonder21c/teamAI/assets/50861700/3df7ac6f-f8e9-4f2d-82cc-6141586e9c6a)
 
 #### Perspective Camera 
 
