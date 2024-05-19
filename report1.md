@@ -1,5 +1,5 @@
 ### 3차원 정육면체 모델 생성, 색상 정의, 조명 설치
-
+![chrome-capture-2024-4-29](https://github.com/wonder21c/computer-graphic/assets/50861700/2859e346-a178-4f7e-ae27-3389d41494ef)
 #### App.jsx
 
 ```
